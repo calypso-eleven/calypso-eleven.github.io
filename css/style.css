@@ -1,0 +1,32 @@
+.background-milieu {
+	
+	/*background-image:radial-gradient(#1e193c, black);*/
+}
+.background-body {
+	/* background-color: #1e193c; */
+	/*background-color: black; */
+	background-image:radial-gradient(#1e193c, black)
+}
+.title-color {
+	color: white;
+}
+
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	font-size: 100px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
